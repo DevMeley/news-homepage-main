@@ -188,7 +188,7 @@ button{
         width: 300px;
     }
     .txt-with-button{
-        width: 400px;
+        width: 100%;
         font-size: 16px;
     }
 
